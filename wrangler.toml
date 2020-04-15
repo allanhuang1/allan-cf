@@ -1,0 +1,6 @@
+name = "allan-cf"
+type = "javascript"
+account_id = "7fd2bdca2cf240ced8202214061cd28a"
+workers_dev = true
+route = ""
+zone_id = ""
